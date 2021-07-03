@@ -5,9 +5,12 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "css-loader": "^5.2.6",
+    "moment": "^2.29.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
+    "react-moment": "^1.1.1",
     "react-scripts": "^3.2.0",
+    "recharts": "^2.0.9",
     "sass": "^1.35.1",
     "web3": "^1.4.0"
   },
